@@ -1,0 +1,21 @@
+{
+    "UsedAndNewCars": "Kullanılmış ve Yeni Arabalar",
+    "MotorBikes": "Motorlu Bisikletler",
+    "Trucks": "kamyonlar",
+    "Language": "Türkçe",
+    "Cars": "Arabalar",
+    "Bikes": "Bisikletler",
+    "Caravan": "Karavan",
+    "Trnsporter": "Taşıyıcı",
+    "Trailer": "Römork",
+    "New": "Yeni",
+    "Used": "Kullanılmış",
+    "PreRegister": "Ön-kayıt",
+    "Make": "Marka",
+    "Model": "Model",
+    "FirstRegistration": "İlk Kayıt",
+    "Price": "fiyat (€)",
+    "DefaultCountry": "Avrupa",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg",
+    "result": "Sonuç"
+}

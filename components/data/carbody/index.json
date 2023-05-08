@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Compact"
+    },
+    {
+        "name": "Convertible"
+    },
+    {
+        "name": "Coupe"
+    },
+    {
+        "name": "Off-Road/Pick"
+    },
+    {
+        "name": "Station Wagon"
+    },
+    {
+        "name": "Sedans"
+    },
+    {
+        "name": "Van"
+    },
+    {
+        "name": "Transporter"
+    },
+    {
+        "name": "Other"
+    }
+]

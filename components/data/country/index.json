@@ -1,0 +1,22 @@
+[
+  {
+    "LocalName": "en",
+    "title": "English",
+    "Flag": ""
+  },
+  {
+    "LocalName": "fr",
+    "title": "France",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+  },
+  {
+    "LocalName": "tr",
+    "title": "Turkey",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+  },
+  {
+    "LocalName": "ge",
+    "title": "Germany",
+    "Flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1024px-Flag_of_Germany.svg.png"
+  }
+]
