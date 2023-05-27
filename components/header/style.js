@@ -36,7 +36,7 @@ const NavigationList = styled.ul`
     margin: 0px;
 
     &.MobileVisible {
-        display: block;
+        display: none;
         height : 200px;
         transition: 0.5s;
         opacity: 1;
