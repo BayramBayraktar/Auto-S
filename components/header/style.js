@@ -40,6 +40,9 @@ const NavigationList = styled.ul`
         height : 200px;
         transition: 0.5s;
         opacity: 1;
+        @media(max-width:1000px) {
+        display: block;
+    }
         
     }
     &.MobileinVisible {
